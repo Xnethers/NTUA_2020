@@ -1701,8 +1701,8 @@
 	}
 
 		a:hover {
-			color: #E27689;
-			border-bottom-color: rgba(255, 255, 255, 0);
+    color: #E27689;
+    border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
 	sub {
@@ -2116,9 +2116,11 @@
 		}
 
 		#header .icons {
-			font-size: 0.8em;
-			margin: 0 0 1em 0;
-			text-align: center;
+    font-size: 0.8em;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 1em;
+    text-align: center;
 		}
 
 			#header .icons a {
@@ -2766,11 +2768,11 @@
 	padding-bottom: 15px;
 }
 .logoMaa {
-	max-width: 30%;
-	color: #FFFFFF;
-	font-size: 45px;
-	font-style: italic;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    max-width: 100%;
+    color: #FFFFFF;
+    font-size: 45px;
+    font-style: italic;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 
 }
 .foot {
