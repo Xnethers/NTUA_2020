@@ -71,7 +71,7 @@
 }
 .ui-widget-content .ui-state-active,
 .ui-widget-header .ui-state-active {
-/*	border: 2px solid #a081ff;*/
+	border: 2px solid #a081ff;
 	background: #a081ff;
 	font-weight: bold;
 	color: #ffffff;
@@ -110,7 +110,7 @@
 .ui-state-focus a:hover,
 .ui-state-focus a:link,
 .ui-state-focus a:visited {
-	color: #ba33ff;
+/*	color: #ba33ff;*/
 	text-decoration: none;
 }
 
