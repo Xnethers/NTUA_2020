@@ -28,12 +28,13 @@
 	font-size: 1em;
 }
 .ui-widget-content {
-    background: #8888FF 10% bottom repeat-x;
-    color: #FFFFFF;
-    background-color: #dcd5f1db;
+	background-repeat: repeat-x;
+	background-position: 10% bottom repeat-x;
+	color: #FFFFFF;
+	background-color: #D9CEBA;
 }
 .ui-widget-content a {
-	color: rgba(81,81,167,1.00);
+	color: rgba(120,94,59,1.00);
 }
 .ui-widget-header {
 	border: 0px solid #bbbbbb;
@@ -51,10 +52,10 @@
 .ui-state-default,
 .ui-widget-content .ui-state-default,
 .ui-widget-header .ui-state-default {
-	border: 2px solid #deb7fc;
-	background: #deb7fc;
+	border: 2px solid #e6cba0;
+	background: #e6cba0;
 	font-weight: bold;
-	color: #ba33ff;
+	color: #816840;
 }
 .ui-state-default a,
 .ui-state-default a:link,
@@ -65,15 +66,15 @@
 }
 /*下拉展開*/
 .ui-state-active{
-	border: 2px solid #a081ff;
-	background: #a081ff;
+	border: 2px solid #9D7C4D;
+	background: #9D7C4D;
 	font-weight: bold;
 	color: #ffffff;
 }
 .ui-widget-content .ui-state-active,
 .ui-widget-header .ui-state-active {
-	border: 2px solid #a081ff;
-	background: #a081ff;
+	border: 2px solid #9D7C4D;
+	background: #9D7C4D;
 	font-weight: bold;
 	color: #ffffff;
 }
@@ -87,7 +88,7 @@
 .ui-state-hover,
 .ui-widget-content .ui-state-hover,
 .ui-widget-header .ui-state-hover{
-	border: 2px solid #ba33ff;
+	border: 2px solid #55360B;
 	/* [disabled]background: #f8f8f8; */
 	font-weight: bold;
 }
