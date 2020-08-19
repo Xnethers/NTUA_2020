@@ -33,7 +33,7 @@
     background-color: #dcd5f1db;
 }
 .ui-widget-content a {
-	color: #dddddd;
+	color: rgba(81,81,167,1.00);
 }
 .ui-widget-header {
 	border: 0px solid #bbbbbb;
@@ -59,8 +59,9 @@
 .ui-state-default a,
 .ui-state-default a:link,
 .ui-state-default a:visited {
-	color: #ffffff;
+	color: #FFFFFF;
 	text-decoration: none;
+	font-family: "微軟正黑體";
 }
 /*下拉展開*/
 .ui-state-active{
