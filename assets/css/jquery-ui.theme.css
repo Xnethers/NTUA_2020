@@ -52,30 +52,17 @@
 .ui-state-default,
 .ui-widget-content .ui-state-default,
 .ui-widget-header .ui-state-default {
-<<<<<<< HEAD
     border: 2px solid #e6cba0;
     background: #e6cba0;
     font-weight: bold;
 /*    color: #55360B;*/
-=======
-	border: 2px solid #e6cba0;
-	background: #e6cba0;
-	font-weight: bold;
-	color: #816840;
->>>>>>> c3edd539d8c7af788c9220c5a520e825d13aa328
 }
 .ui-state-default a,
 .ui-state-default a:link,
 .ui-state-default a:visited {
-<<<<<<< HEAD
     color: #816840;
     text-decoration: none;
     font-family: "微軟正黑體";
-=======
-	color: #FFFFFF;
-	text-decoration: none;
-	font-family: "微軟正黑體";
->>>>>>> c3edd539d8c7af788c9220c5a520e825d13aa328
 }
 /*下拉展開*/
 .ui-state-active{
@@ -101,16 +88,10 @@
 .ui-state-hover,
 .ui-widget-content .ui-state-hover,
 .ui-widget-header .ui-state-hover{
-<<<<<<< HEAD
     border: 2px solid #55360B;
     /* [disabled]background: #f8f8f8; */
     font-weight: bold;
 	color: #55360B;
-=======
-	border: 2px solid #55360B;
-	/* [disabled]background: #f8f8f8; */
-	font-weight: bold;
->>>>>>> c3edd539d8c7af788c9220c5a520e825d13aa328
 }
 .ui-state-hover a,
 .ui-state-hover a:hover,
