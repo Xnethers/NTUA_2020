@@ -3,8 +3,13 @@
 <file name="index.html" server="120.97.121.91:1801" local="132416983410963722" remote="132417010200000000" Dst="0" />
 <file name="index - en.html" server="120.97.121.91:1801" local="132416983414744100" remote="132417010200000000" Dst="0" />
 <file name="LICENSE.txt" server="120.97.121.91:1801" local="132265947640000000" remote="132416201400000000" Dst="0" />
+<<<<<<< HEAD
 <file name="index - en.html" server="120.97.121.91" local="132426598126355807" remote="132426599400000000" Dst="0" />
 <file name="index.html" server="120.97.121.91" local="132426597529745807" remote="132426599400000000" Dst="0" />
+=======
+<file name="index - en.html" server="120.97.121.91" local="132422934737288939" remote="132422934600000000" Dst="0" />
+<file name="index.html" server="120.97.121.91" local="132422928029531635" remote="132422928000000000" Dst="0" />
+>>>>>>> c3edd539d8c7af788c9220c5a520e825d13aa328
 <file name="debug.log" server="120.97.121.91" local="132265947620000000" remote="132422823600000000" Dst="0" />
 <file name="README.txt" server="120.97.121.91" local="132265947640000000" remote="132422823600000000" Dst="0" />
 <file name="LICENSE.txt" server="120.97.121.91" local="132265947640000000" remote="132422823600000000" Dst="0" />

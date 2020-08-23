@@ -32,8 +32,13 @@
 	}
 
 	ol, ul {
+<<<<<<< HEAD
     list-style: none;
     text-indent: -3px;
+=======
+	list-style: none;
+	text-indent: -3px;
+>>>>>>> c3edd539d8c7af788c9220c5a520e825d13aa328
 	}
 
 	blockquote, q {
@@ -1737,8 +1742,13 @@
 	}
 
 		a:hover {
+<<<<<<< HEAD
     /* [disabled]color: #E6CBA0; */
     border-bottom-color: rgba(255, 255, 255, 0);
+=======
+	/* [disabled]color: #E6CBA0; */
+	border-bottom-color: rgba(255, 255, 255, 0);
+>>>>>>> c3edd539d8c7af788c9220c5a520e825d13aa328
 		}
 
 	sub {
@@ -1765,9 +1775,15 @@
 	}
 
 	p,ul, ol, dl, table {
+<<<<<<< HEAD
     margin-bottom: 2em;
     color: #303030;
     font-size: large;
+=======
+	margin-bottom: 2em;
+	color: #303030;
+	font-size: large;
+>>>>>>> c3edd539d8c7af788c9220c5a520e825d13aa328
 	}
 
 	br.clear {
@@ -2088,6 +2104,7 @@
 			}
 
 			.row .item header p {
+<<<<<<< HEAD
     text-align: left;
     padding-left: 1em;
     font-style: normal;
@@ -2098,6 +2115,18 @@
     line-height: normal;
     padding-right: 1em;
     margin-top: -1px;
+=======
+	text-align: left;
+	padding-left: 1em;
+	font-style: normal;
+	font-size: 12pt;
+	white-space: normal;
+	font-family: meiryo, "Source Sans Pro", "å¾®è»Ÿæ­£é»‘é«”", sans-serif;
+	padding-bottom: 10px;
+	line-height: normal;
+	padding-right: 1em;
+	margin-top: -1px;
+>>>>>>> c3edd539d8c7af788c9220c5a520e825d13aa328
 			}
 
 /* Icons */
@@ -2372,9 +2401,15 @@
 			body{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+<<<<<<< HEAD
 	background-position: center 80%;
 	background-size: cover;
 	/* [disabled]background-clip: padding-box; */
+=======
+	background-position: center center;
+	background-size: cover;
+	background-clip: padding-box;
+>>>>>>> c3edd539d8c7af788c9220c5a520e825d13aa328
 	background-origin: padding-box;
 			}
 /* Wide */

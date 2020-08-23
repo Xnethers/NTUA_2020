@@ -11,12 +11,21 @@
 <file name="jquery-ui.min.css" server="120.97.121.91:1801" local="132265948060000000" remote="132416197200000000" Dst="0" />
 <file name="jquery-ui.theme.min.css" server="120.97.121.91:1801" local="132265948080000000" remote="132416197200000000" Dst="0" />
 <file name="main - 銴ˊ.css" server="120.97.121.91:1801" local="132265948080000000" remote="132416197200000000" Dst="0" />
+<<<<<<< HEAD
 <file name="main.css" server="120.97.121.91" local="132424776594173985" remote="132424778400000000" Dst="0" />
 <file name="font-awesome.min.css" server="120.97.121.91" local="132416196800000000" remote="132422821200000000" Dst="0" />
 <file name="jquery-ui.css" server="120.97.121.91" local="132424760629537681" remote="132424778400000000" Dst="0" />
 <file name="jquery-ui.structure.css" server="120.97.121.91" local="132265948060000000" remote="132422821200000000" Dst="0" />
 <file name="jquery-ui.structure.min.css" server="120.97.121.91" local="132424711629032234" remote="132424744200000000" Dst="0" />
 <file name="jquery-ui.theme.css" server="120.97.121.91" local="132424782483272836" remote="132426599400000000" Dst="0" />
+=======
+<file name="main.css" server="120.97.121.91" local="132422923738299827" remote="132422923200000000" Dst="0" />
+<file name="font-awesome.min.css" server="120.97.121.91" local="132416196800000000" remote="132422821200000000" Dst="0" />
+<file name="jquery-ui.css" server="120.97.121.91" local="132412066340000000" remote="132422821200000000" Dst="0" />
+<file name="jquery-ui.structure.css" server="120.97.121.91" local="132265948060000000" remote="132422821200000000" Dst="0" />
+<file name="jquery-ui.structure.min.css" server="120.97.121.91" local="132412020100000000" remote="132422821200000000" Dst="0" />
+<file name="jquery-ui.theme.css" server="120.97.121.91" local="132422855866256695" remote="132422855400000000" Dst="0" />
+>>>>>>> c3edd539d8c7af788c9220c5a520e825d13aa328
 <file name="ie8.css" server="120.97.121.91" local="132265948060000000" remote="132422823600000000" Dst="0" />
 <file name="ie9.css" server="120.97.121.91" local="132265948060000000" remote="132422823600000000" Dst="0" />
 <file name="jquery-ui.min.css" server="120.97.121.91" local="132265948060000000" remote="132422823600000000" Dst="0" />
