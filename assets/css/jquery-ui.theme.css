@@ -14,8 +14,8 @@
 /* Component containers
 ----------------------------------*/
 .ui-widget {
-	font-family: Trebuchet MS,Helvetica,Arial,sans-serif;
-	font-size: 1.1em;
+    font-family: Trebuchet MS,Helvetica,Arial,sans-serif;
+    font-size: 1.1em;
 }
 .ui-widget .ui-widget {
 	font-size: 1em;
@@ -24,16 +24,17 @@
 .ui-widget select,
 .ui-widget textarea,
 .ui-widget button {
-	font-family: Trebuchet MS,Helvetica,Arial,sans-serif;
-	font-size: 1em;
+    /* [disabled]font-family: Trebuchet MS,Helvetica,Arial,sans-serif; */
+    font-size: 1em;
 }
 .ui-widget-content {
-    background: #8888FF 10% bottom repeat-x;
-    color: #FFFFFF;
-    background-color: #dcd5f1db;
+	background-repeat: repeat-x;
+	background-position: 10% bottom repeat-x;
+	color: #FFFFFF;
+	background-color: #D9CEBA;
 }
 .ui-widget-content a {
-	color: #dddddd;
+	color: rgba(120,94,59,1.00);
 }
 .ui-widget-header {
 	border: 0px solid #bbbbbb;
@@ -51,28 +52,29 @@
 .ui-state-default,
 .ui-widget-content .ui-state-default,
 .ui-widget-header .ui-state-default {
-	border: 2px solid #deb7fc;
-	background: #deb7fc;
-	font-weight: bold;
-	color: #ba33ff;
+    border: 2px solid #e6cba0;
+    background: #e6cba0;
+    font-weight: bold;
+/*    color: #55360B;*/
 }
 .ui-state-default a,
 .ui-state-default a:link,
 .ui-state-default a:visited {
-	color: #ffffff;
-	text-decoration: none;
+    color: #816840;
+    text-decoration: none;
+    font-family: "微軟正黑體";
 }
 /*下拉展開*/
 .ui-state-active{
-	border: 2px solid #a081ff;
-	background: #a081ff;
+	border: 2px solid #9D7C4D;
+	background: #9D7C4D;
 	font-weight: bold;
 	color: #ffffff;
 }
 .ui-widget-content .ui-state-active,
 .ui-widget-header .ui-state-active {
-	border: 2px solid #a081ff;
-	background: #a081ff;
+	border: 2px solid #9D7C4D;
+	background: #9D7C4D;
 	font-weight: bold;
 	color: #ffffff;
 }
@@ -86,15 +88,16 @@
 .ui-state-hover,
 .ui-widget-content .ui-state-hover,
 .ui-widget-header .ui-state-hover{
-	border: 2px solid #ba33ff;
-	/* [disabled]background: #f8f8f8; */
-	font-weight: bold;
+    border: 2px solid #55360B;
+    /* [disabled]background: #f8f8f8; */
+    font-weight: bold;
+	color: #55360B;
 }
 .ui-state-hover a,
 .ui-state-hover a:hover,
 .ui-state-hover a:link,
 .ui-state-hover a:visited{
-	color: #ffffff;
+	color: #55360B;
 	text-decoration: none;
 	
 }
