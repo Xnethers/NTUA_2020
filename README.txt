@@ -1,45 +1,17 @@
-Prologue by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+『光跡重啟』
+2020臺北數位圖像國際學術研討會
 
-
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
-
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
-
-http://ineedchemicalx.deviantart.com/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
-
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
-
-(* = Not included)
-
-AJ
-n33.co @n33co dribbble.com/n33
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.scrolly (n33.co)
-		jquery.scrollzer (n33.co)
-		Skel (skel.io)
+注意事項
+1.伺服器的架設需請助教向電算中心申請，需要IP、帳號、密碼、連接埠
+2.上傳網站時必須使用學校網路
+  小撇步：使用學校的雲端桌面(學校首頁→e化入口→雲端行動服務網)，就不用跑學校了ᕕ ( ᐛ ) ᕗ
+3.使用dreamweaver設定伺服器步驟：
+  網站→管理網站→伺服器
+4.連不到伺服器99%都是連接埠問題
+5.研討會照片放pictures資料夾，以picture (?)命名(?為數字)，在 list.txt 內編輯照片說明。
+6.更換圖片時，注意副檔名，jpg和png別搞錯！！！
+7.有事大膽的@主任老師助教，因為被@會更可怕(QAQ)
+8.跟議事組索取空白簽到表，填上講座報名名單後傳回去給議事組。
+9.講座開始報名時要通知公關組宣傳。
+10.關注其他組別的進度，尤其是議事組&公關組，不然容易忘記做事(ˊ  ˋ;)
+11.想到什麼應該流傳下去的注意事項，就寫下來，給後來的學弟妹方便。
